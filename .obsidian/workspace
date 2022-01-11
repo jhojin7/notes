@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "08ba2e0f1c88a769",
+    "type": "split",
+    "children": [
+      {
+        "id": "488b37d500769197",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "readme.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff37ec8ad2838ba9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0afb0cef0b0922f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2892e7819b927873",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0c155afffa9f13f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 186
+  },
+  "right": {
+    "id": "be96cd85d5667c0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "edd8bcd9d5f823db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "181bb981476299d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "488b37d500769197",
+  "lastOpenFiles": [
+    "readme.md",
+    "데이터.md",
+    "크롬 탭 그룹 정리하기.md",
+    "패스트캠퍼스 초격차 데이터 코스.md",
+    "뉴스 스크랩.md"
+  ]
+}
