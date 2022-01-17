@@ -3,7 +3,6 @@ https://www.notion.so/hojin/ddc0783999104a289054a5da0246f150
 
 ## TODO
 - Set up notion page
-- 떡밥 모아두기.
 - maybe) buy a domain?
 
 
