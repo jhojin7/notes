@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CRUD.md",
+            "file": "README.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CRUD.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "01ed5f3006ebf14b",
   "lastOpenFiles": [
-    "CRUD.md",
     "README.md",
+    "CRUD.md",
     "portfolio prep.md",
     "github gist calendar.md",
     "python.md",
