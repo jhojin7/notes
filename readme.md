@@ -19,3 +19,4 @@
 - [[크롬 탭 그룹 정리하기]]
 - [[portfolio prep]]
 - [[python]]
+- [[CRUD]]
