@@ -1,6 +1,6 @@
 # HJ_second_brain
-- Repo for my dev related notes for archival purpose.
-- Running on top of Obsidian, and synced manually to this repo.
+- CS-related notes for personal archival purpose.
+- Running on top of [Obsidian](https://obsidian.md/), synced manually with GitHub.
 
 ## TODO
 - Set up something to view my files on...?
