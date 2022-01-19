@@ -8,11 +8,11 @@
 - SQL에서...:
 	- INSERT, SELECT, UPDATE, DELETE가 똑같은 역할을 함.
 	
-	
-	- https://ko.wikipedia.org/wiki/CRUD
-	- https://en.wikipedia.org/wiki/Create,_read,_update_and_delete
-	- https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/crud
-	- https://brunch.co.kr/@topherlee/68
-	- https://three-pleasure.tistory.com/222
-	- https://www.codecademy.com/article/what-is-crud
-	- 
+## Resources
+- https://ko.wikipedia.org/wiki/CRUD
+- https://en.wikipedia.org/wiki/Create,_read,_update_and_delete
+- https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/crud
+- https://brunch.co.kr/@topherlee/68
+- https://three-pleasure.tistory.com/222
+- https://www.codecademy.com/article/what-is-crud
+- 
