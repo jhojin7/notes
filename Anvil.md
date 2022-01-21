@@ -7,4 +7,7 @@
 ## Examples (공홈)
 - News Aggregator https://anvil.works/learn/tutorials/database-backed-apps
 - 몽골 미세먼지 수치 시각화 https://anvil.works/forum/t/mongolia-air-quality-monitoring-app/3861
-- 
+
+## Alternatives
+- [create-react-app](https://create-react-app.dev/)
+	- 리액트로 개발할거면 기본적인건 다 되서 나와서 편한듯하다.
