@@ -8,7 +8,8 @@
 - Google technical writing https://developers.google.com/tech-writing
 	- For students 에서 TechWriting One -> " Two 순서로 들어야함. 
 - GitLab TW team https://about.gitlab.com/handbook/engineering/ux/technical-writing/
-- 
+
+### [[Tecnical Writing One]]
 
 ## Resources
 - TW코스들 구글이 정리한것. https://developers.google.com/tech-writing/resources
