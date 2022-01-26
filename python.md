@@ -16,4 +16,20 @@
 
 ### math 관련
 - 소수 number를 digit만큼 남겨서 출력 `round(number, digit)`
-- 소수 내림 `math.floor(number)'
+- 소수 내림 `math.floor(number)`
+
+
+### 파일 IO
+```python
+with open("fname",'w',encoding="utf-8") as f:
+    f.write('')
+	f.close()
+#### 열고 닫기
+f = open("file.txt",'w')
+f.close()
+#### 읽고 쓰기
+f.read()
+f.readline()
+f.readlines()
+f.write(str)
+```
