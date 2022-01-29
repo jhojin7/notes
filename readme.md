@@ -24,3 +24,4 @@
 - [[OAuth]]
 - [[Technical Writing]]
 - [[env file]]
+- [[vscode에서 raspberry-pi랑 연결하기]]
