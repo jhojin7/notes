@@ -3,18 +3,34 @@
 - 프로젝트 root directory에 저장.
 - API key들이나 민감한 정보들을 따로 빼두고 gitignore하는 방향으로 사용.
 
-- 공식 문서 예시
+## Installation, import
+```
+pip install python-dotenv
+import os
+```
+- `.env` file setup. (Must be in the same directory)
 ```
 # Development settings
 DOMAIN=example.org
 ADMIN_EMAIL=admin@${DOMAIN}
 ROOT_URL=${DOMAIN}/app
+VAR=foo
 ```
 
-## Python setup
-1. 설치 `pip install python-dotenv`
-2. 불러오기 `load_dotenv()`, `var=os.getenv('VAR1')`
-3. 
+## Load all variables
+```
+from dotenv import load-dotenv
+os.getenv('VAR') #os.environ('VAR')
+```
+
+## Load variables selectively
+```
+from dotenv import dotenv_values
+config = dotenv_values('.env')
+# config = {
+#  "VAR": "foo"
+#  }
+```
 
 ## Resources
 - 공식 docs. 정리잘되있음. https://pypi.org/project/python-dotenv/
