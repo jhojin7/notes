@@ -15,6 +15,7 @@
 
 
 ## Files
+### Misc.
 - [[github gist calendar]]
 - [[데이터]]
 - [[크롬 탭 그룹 정리하기]]
@@ -30,3 +31,5 @@
 
 ### Leetcode
 - [[leetcode-algo1]]
+
+### [[ablestudy-PublicData]]
