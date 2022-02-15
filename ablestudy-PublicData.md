@@ -16,5 +16,6 @@
 - 유데미 수업 선물로 등록시킨건 평생이용 가능한듯. (ADsP, SQLD 신청했었음.)
 
 ## TIL
-- `[[ablestudy/ablestudy-yyyy-mm-dd]]` 포멧 활용하기.
+- `[[ablestudy/ablestudy-yyyy-mm-dd]]` 포멧으로.
 - [[ablestudy/ablestudy-2022-02-14]]
+- [[ablestudy/ablestudy-2022-02-15]]
