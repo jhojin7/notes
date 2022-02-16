@@ -19,3 +19,4 @@
 - `[[ablestudy/ablestudy-yyyy-mm-dd]]` 포멧으로.
 - [[ablestudy/ablestudy-2022-02-14]]
 - [[ablestudy/ablestudy-2022-02-15]]
+- [[ablestudy/ablestudy-2022-02-16]]
