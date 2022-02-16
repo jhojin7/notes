@@ -1,6 +1,8 @@
 # ablestudy 2022-02-15
+```
 오늘진도: 1~5
 나간진도: 1~7
+```
 
 - 선행학습
 	- JSON
@@ -77,5 +79,3 @@ for (let i of person)
     console.log(i.name, i.age, i.nationality);
 
 ```
-
-<iframe src="https://leetcode.com/playground/TM6CnKNp/shared" frameBorder="0" width="400" height="300"></iframe>
