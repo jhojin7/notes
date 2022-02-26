@@ -2,7 +2,7 @@
 planned: 19-21
 covered: 19-21
 ---
-# ablestudy 2022-02-21
+# ablestudy 2022-02-22
 ### JSON 데이터를 긁어와서 HTML로 표시
 - head에 jQuery, Ajax, Bootstrap script랑 링크 추가하기.
 
