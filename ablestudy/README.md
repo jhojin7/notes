@@ -16,7 +16,7 @@
 - 유데미 수업 선물로 등록시킨건 평생이용 가능한듯. (ADsP, SQLD 신청했었음.)
 
 ## TIL
-- `[[ablestudy/ablestudy-yyyy-mm-dd]]` 포멧으로.
+- TIL 인증 노션 링크 https://www.notion.so/322c20dabc3b40a28a43727e317001
 - [[ablestudy/ablestudy-2022-02-14]]
 - [[ablestudy/ablestudy-2022-02-15]]
 - [[ablestudy/ablestudy-2022-02-16]]
