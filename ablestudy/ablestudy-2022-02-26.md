@@ -15,7 +15,7 @@ covered: 29-30
 - bg-info -danger, -success
 - table-responsive-xx (sm, md, lg, xl) https://getbootstrap.com/docs/5.1/content/tables/#responsive-tables
 - Responsive Table
-	- 기본 ![사진](./ScreenshotPC_20220227-003113.jpg)
+	- 기본 ![사진](ScreenshotPC_20220227-003113.jpg)
 	- 화면 작아졌을 때![사진2](ScreenshotPC_20220227-003132.jpg)
 
 
