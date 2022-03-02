@@ -31,3 +31,4 @@
 - [ablestudy/ablestudy-2022-02-26](/ablestudy/ablestudy-2022-02-26.md)
 - [ablestudy/ablestudy-2022-02-28](/ablestudy/ablestudy-2022-02-28.md)
 - [ablestudy/ablestudy-2022-03-01](/ablestudy/ablestudy-2022-03-01.md)
+- [ablestudy/ablestudy-2022-03-02](/ablestudy/ablestudy-2022-03-02.md)

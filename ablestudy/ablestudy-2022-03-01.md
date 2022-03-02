@@ -11,7 +11,6 @@ covered: 37-40
 ![[ScreenshotPC_20220301-190142.jpg]]
 
 
-
 ## Code
 
 ## Resources
