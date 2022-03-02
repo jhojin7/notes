@@ -7,7 +7,6 @@ covered: 40-43
 - 코드: https://github.com/jhojin7/jhojin7-miscellaneous/blob/main/ablestudy-lec41.ipynb
 
 ## Code
-![Pasted image 20220302182019.png](../etc/Pasted image 20220302182019.png)
-
+![Pasted image 20220302182019.png]('../etc/Pasted image 20220302182019.png')
 
 ## Resources
