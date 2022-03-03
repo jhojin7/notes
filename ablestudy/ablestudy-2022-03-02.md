@@ -9,5 +9,4 @@ covered: 40-43
 ## Code
 ![imggg](../etc/Pasted%20image%2020220302182019.png)
 
-
 ## Resources
