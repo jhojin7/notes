@@ -17,9 +17,6 @@
 
 ## TIL
 - TIL 인증 노션 링크 https://www.notion.so/322c20dabc3b40a28a43727e317001
-- [[ablestudy/ablestudy-2022-02-14]]
-- [[ablestudy/ablestudy-2022-02-15]]
-- [[ablestudy/ablestudy-2022-02-16]]
 - [ablestudy/ablestudy-2022-02-14](/ablestudy/ablestudy-2022-02-14.md)
 - [ablestudy/ablestudy-2022-02-15](/ablestudy/ablestudy-2022-02-15.md)
 - [ablestudy/ablestudy-2022-02-16](/ablestudy/ablestudy-2022-02-16.md)
@@ -34,3 +31,4 @@
 - [ablestudy/ablestudy-2022-03-02](/ablestudy/ablestudy-2022-03-02.md)
 - [ablestudy/ablestudy-2022-03-03](/ablestudy/ablestudy-2022-03-03.md)
 - [ablestudy/ablestudy-2022-03-04](/ablestudy/ablestudy-2022-03-04.md)
+- [ablestudy/ablestudy-2022-03-05](/ablestudy/ablestudy-2022-03-05.md)
