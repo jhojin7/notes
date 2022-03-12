@@ -17,6 +17,8 @@
 
 ## TIL
 - TIL 인증 노션 링크 https://www.notion.so/322c20dabc3b40a28a43727e317001
+	- https://brave-shovel-474.notion.site/Today-I-Learned-46dcb04b3aa94d3fbee3dc686ae3874b
+	- https://www.notion.so/322c20dabc3b40a28a43727e31700152
 - [ablestudy/ablestudy-2022-02-14](/ablestudy/ablestudy-2022-02-14.md)
 - [ablestudy/ablestudy-2022-02-15](/ablestudy/ablestudy-2022-02-15.md)
 - [ablestudy/ablestudy-2022-02-16](/ablestudy/ablestudy-2022-02-16.md)
