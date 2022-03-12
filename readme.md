@@ -30,6 +30,6 @@
 - [[REST]]
 
 ### Leetcode
-- [[leetcode-algo1]]
+- [[leetcode/README]]
 
 ### [[ablestudy/README.md]]
