@@ -8,8 +8,6 @@
 	- 1) 수강 인증 + 과제 수행 90% 이상
 	- 2) 출첵 + 진도율 90% 이상
 	- 유데미 코스 이수증
-- 수료하면... 에이블런 30만원 쿠폰, 기타 조건 맞으면 추첨해서 깊티.
-	- 환급이 되는거였나 안되는거였나 팩트체크 필요.
 - 챌린지는 4주. 02-15 ~ 03-13 까지. 
 - 사람이 별로 많진 않은듯? OT때 들은 피셜로는 전체 20명 내외.
 - TIL 인증은 단톡방으로. 다음날 새벽까지 해도 인정됨. 
@@ -18,7 +16,6 @@
 ## TIL
 - TIL 인증 노션 링크 https://www.notion.so/322c20dabc3b40a28a43727e317001
 	- https://brave-shovel-474.notion.site/Today-I-Learned-46dcb04b3aa94d3fbee3dc686ae3874b
-	- https://www.notion.so/322c20dabc3b40a28a43727e31700152
 - [ablestudy/ablestudy-2022-02-14](/ablestudy/ablestudy-2022-02-14.md)
 - [ablestudy/ablestudy-2022-02-15](/ablestudy/ablestudy-2022-02-15.md)
 - [ablestudy/ablestudy-2022-02-16](/ablestudy/ablestudy-2022-02-16.md)
