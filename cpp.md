@@ -1,5 +1,19 @@
 # C++
 
+## `rbegin`, `rend`
+- 역순으로 iterator를 사용한 for loop을 돌고 싶을때 사용.
+- 그냥 정방향으로 하려면 https://stackoverflow.com/a/14374550/3413574
+- https://stackoverflow.com/a/3610963/3413574
+- 주의할것: begin, end도 마찬가지지만, begin이 첫번째 elem을 가르키는 iterator고, end는 마지막 iterator가 아니라 마지막 iter의 다음 elem을 가르킴.
+  - https://en.cppreference.com/w/cpp/iterator/rbegin (그림있음)
+```cpp
+// for (auto it = company.begin(); it!=company.end(); it++)
+//     cout << *it << '\n';
+for (auto it = company.rbegin(); it!=company.rend(); it++){
+    cout << *it << '\n';
+}
+```
+
 ## `long int` vs `long long int`
 - 그냥 long은 (최소)32bit, long long은 (최소)64bit. 
 - (표준마다 차이가 있는듯함. 적어도 cpp표준은 32,64)
