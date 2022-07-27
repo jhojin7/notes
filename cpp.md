@@ -1,5 +1,19 @@
 # C++
 
+## string에서 string 지우기
+- `RLRRLLRR`에서 "RR"들만 지우기.
+- boj5430번
+```cpp
+void clean_p(string &p){
+    auto pos = p.find("RR");
+    while (pos != string::npos){
+        p.erase(pos,2);
+        pos = p.find("RR");
+    }
+}
+```
+- https://thispointer.com/how-to-remove-substrings-from-a-string-in-c/
+
 ## iterator간의 ==연산
 - 결론: 주의해서 쓰자.
 - 하려했던것: left,right iterator를 만들어서 양쪽 끝에서 양쪽 끝에서 중간으로 한칸씩 이동시켜 가면서 left==right면 break하는 루프를 만들려 했음. 
